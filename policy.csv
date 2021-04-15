@@ -1,0 +1,58 @@
+﻿GEO_ID,NAME,Stay At Home Order Start,Stay At Home Order End,Mask Mandate Start,Mask Mandate End,Business Closed,Business Partially Open,Business Mostly Open
+0400000US01,Alabama,4/4/20,4/30/20,7/16/20,4/9/21,3/28/20,4/30/20,5/22/20
+0400000US02,Alaska,3/28/20,4/24/20,Not Applicable,Not Applicable,3/28/20,4/24/20,5/22/20
+0400000US04,Arizona,3/31/20,5/15/20,Not Applicable,Not Applicable,5/15/20,5/8/20,In Effect
+0400000US05,Arkansas,Not Applicable,Not Applicable,7/20/20,3/30/21,4/6/20,,2/26/21
+0400000US06,California,3/19/20,In Effect,6/18/20,In Effect,"19/3/2020
+13/7/2020",4/8/20,In Effect
+0400000US08,Colorado,3/26/20,4/26/20,7/20/20,In Effect,3/17/20,5/27/20,In Effect
+0400000US09,Connecticut,3/23/20,5/20/20,4/20/20,In Effect,3/20/20,6/17/20,3/19/21
+0400000US10,Delaware,3/24/20,5/31/20,4/28/20,In Effect,,6/1/20,In Effect
+0400000US11,District of Columbia,3/30/20,5/29/20,7/22/20,In Effect,,,
+0400000US12,Florida,4/1/20,5/4/20,Not Applicable,Not Applicable,,5/4/20,9/25/20
+0400000US13,Georgia,4/2/20,4/30/20,Not Applicable,Not Applicable,,5/31/20,6/11/20
+0400000US15,Hawaii,3/23/20,7/17/20,3/4/20,In Effect,,6/1/20,In Effect
+0400000US16,Idaho,3/25/20,4/30/20,Not Applicable,Not Applicable,,"16/5/2020
+13/11/2020","1/6/2020
+2/2/2021"
+0400000US17,Illinois,3/20/20,5/29/20,5/1/20,In Effect,,"29/5/2020
+18/11/2021","26/6/2020
+4/2/2021"
+0400000US18,Indiana,3/23/20,5/18/20,7/27/20,In Effect,,5/4/20,9/26/20
+0400000US19,Iowa,Not Applicable,Not Applicable,11/17/20,2/7/21,,5/28/20,12/17/20
+0400000US20,Kansas,3/28/20,5/3/20,7/3/20,4/1/21,,5/4/20,5/26/20
+0400000US21,Kentucky,3/22/20,6/29/20,7/10/20,In Effect,,5/22/20,In Effect
+0400000US22,Louisiana,3/22/20,5/15/20,7/13/20,In Effect,,6/2/20,3/31/21
+0400000US23,Maine,3/31/20,5/31/20,4/29/20,In Effect,,6/1/20,6/17/20
+0400000US24,Maryland,3/30/20,5/13/20,4/15/20,In Effect,,5/29/20,3/12/21
+0400000US25,Massachusetts,3/24/20,6/8/20,5/6/20,In Effect,,6/8/20,3/1/21
+0400000US26,Michigan,3/23/20,6/1/20,10/5/20,In Effect,,5/22/20,In Effect
+0400000US27,Minnesota,3/25/20,5/18/20,7/25/20,In Effect,,6/1/20,In Effect
+0400000US28,Mississippi,4/1/20,4/27/20,8/5/20,10/1/20,,4/27/20,9/17/20
+0400000US29,Missouri,4/3/20,5/3/20,Not Applicable,Not Applicable,,5/4/20,6/16/20
+0400000US30,Montana,3/26/20,4/27/20,7/15/20,2/12/21,,5/4/20,6/1/20
+0400000US31,Nebraska,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,5/4/20,6/16/20
+0400000US32,Nevada,3/31/20,5/8/20,6/25/20,In Effect,,5/11/20,In Effect
+0400000US33,New Hampshire,3/26/20,6/16/20,11/20/20,In Effect,,5/18/20,6/5/20
+0400000US34,New Jersey,3/21/20,6/9/20,7/8/20,In Effect,,6/15/20,In Effect
+0400000US35,New Mexico,3/24/20,11/30/20,5/16/20,In Effect,,6/1/20,In Effect
+0400000US36,New York,3/20/20,6/8/20,4/17/20,In Effect,,6/12/20,In Effect
+0400000US37,North Carolina,3/27/20,5/20/20,11/23/20,In Effect,,,
+0400000US38,North Dakota,Not Applicable,Not Applicable,11/14/20,1/18/21,,,
+0400000US39,Ohio,3/22/20,5/20/20,7/23/20,In Effect,,,
+0400000US40,Oklahoma,4/1/20,4/30/20,Not Applicable,Not Applicable,,,
+0400000US41,Oregon,3/23/20,5/14/20,7/1/20,In Effect,,,In Effect
+0400000US42,Pennsylvania,4/1/20,6/4/20,11/17/20,In Effect,,,
+0400000US72,Puerto Rico,3/15/20,6/12/20,6/29/20,In Effect,,,
+0400000US44,Rhode Island,3/30/20,5/8/20,5/8/20,In Effect,,,
+0400000US45,South Carolina,4/6/20,5/4/20,Not Applicable,Not Applicable,,,
+0400000US46,South Dakota,Not Applicable,Not Applicable,Not Applicable,Not Applicable,,,
+0400000US47,Tennessee,3/30/20,4/29/20,Not Applicable,Not Applicable,,,
+0400000US48,Texas,3/31/20,4/30/20,7/3/20,3/10/21,,,
+0400000US49,Utah,3/27/20,5/1/20,11/9/20,4/10/21,,,
+0400000US50,Vermont,3/24/20,5/15/20,8/1/20,In Effect,,,
+0400000US51,Virginia,3/30/20,6/4/20,5/29/20,In Effect,,,
+0400000US53,Washington,3/23/20,5/31/20,6/26/20,In Effect,,,
+0400000US54,West Virginia,3/24/20,5/4/20,11/14/20,In Effect,,,
+0400000US55,Wisconsin,3/24/20,5/13/20,8/1/20,3/31/21,,,
+0400000US56,Wyoming,Not Applicable,Not Applicable,12/9/20,3/16/21,,,
